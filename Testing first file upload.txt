@@ -1,2 +1,3 @@
 this is first line - first change
 this is second line - second change
+this is 3rd line - 3rd change
